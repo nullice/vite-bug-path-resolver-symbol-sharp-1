@@ -1,0 +1,15 @@
+{
+  "name": "vite-bug-sharp",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite --debug",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^2.1.5"
+  },
+  "dependencies": {
+    "d": "^1.0.1"
+  }
+}
